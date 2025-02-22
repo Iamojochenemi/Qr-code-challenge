@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -22,12 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Here is a screenshot of my finished work
 C:\Users\HP\Desktop\qr code challenge\qr-code-component-main\screenshot.png
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iamojochenemi/qr-code-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [iamojochenemi.github.io](https://github.com/Iamojochenemi/qr-code-challenge)
+- Live Site URL: [iamojochenemi.github.io](https://iamojochenemi.github.io/Qr-code-challenge/)
 
 ## My process
 
