@@ -55,22 +55,7 @@ p{
     color: hsl(228, 45%, 44%)
 }
 
-@media (max-width: 375px){
-    .card{
-        padding: 10px;
-        max-width: 280px;
-    }
-    .text-container{
-        padding: 15px 10px;
-    }
-    
-    h2{
-        font-size: 1.1rem;
-    }
-    p{
-        font-size: .875rem;
-    }
-}
+
 
 
 
